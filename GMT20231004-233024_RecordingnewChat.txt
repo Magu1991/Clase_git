@@ -1,0 +1,308 @@
+01:39:05	Miguel Garrido:	Reacted to "bajen las sillas de ..." with 😂
+01:39:05	Enmanuel Quero:	buenas
+01:39:05	Juanjose Bascuñan:	ya tengo la consigna 2
+01:39:07	Christian Burns:	que comience el juego
+01:39:10	Juanjose Bascuñan:	el entregable
+01:39:14	Juanjose Bascuñan:	estaba a full
+01:41:21	Juanjose Bascuñan:	es parecido al de javascript
+01:43:00	Mariano Rodriguez:	Buenasss
+01:43:57	Federico Sola:	Buenass
+01:44:07	José Rolón:	buenas
+01:47:02	Martin Franco:	Ya tenemos el día del after?
+01:47:23	Luciano Hamze:	hacelo el viernes profe jajaj, mañana juega boquita
+01:48:02	Federico Rosenberg:	Dice Rondon que la haga mañana nomas...
+01:48:35	Estefania Rafic:	Cristian, una pregunta, subiste la clase grabada de entornos virtuales?
+01:48:58	Estefania Rafic:	ah okis, no lo vi, gracias!
+01:50:10	Maria Vanesa Palacios:	siempre van en conjunto?
+01:50:25	Maria Vanesa Palacios:	git y github
+01:50:54	Juanjose Bascuñan:	de repositorios
+01:51:04	Maria Vanesa Palacios:	ahh pensé que era la unica
+01:51:10	Francisco Fernandez Vera:	Git es un programa de control de versiones, GitHub es como una red social de repositorios que van de la mano para facilitar el trabajo por asi decirlo
+01:51:14	Sabrina Colazzo:	devops
+01:51:20	Juanjose Bascuñan:	Reacted to "Git es un programa d..." with ✔️
+01:51:22	Maria Vanesa Palacios:	Reacted to "Git es un programa d..." with 👍
+01:51:27	Pablo Murua:	Reacted to "Git es un programa d..." with 👍
+01:51:59	Maria Vanesa Palacios:	entendido
+01:52:13	Luciano Hamze:	Reacted to "Git es un programa d..." with 👍
+01:53:02	Martin Franco:	estable
+01:54:43	Juanjose Bascuñan:	es como un borrador
+01:55:41	Martin Franco:	como una beta digamos
+01:55:55	Luciano Hamze:	o alpha
+01:56:09	Francisco Fernandez Vera:	Claro y en caso de errores se vuelve al principio jaja
+01:58:03	Francisco Fernandez Vera:	Eso es algo que nunca me puse a leer bien, los comandos para usar git
+01:58:56	Juanjose Bascuñan:	te toca hacer merge y esas cosas
+01:58:57	Juanjose Bascuñan:	jajaja
+01:59:07	Renato Soto Vargas:	Perdon por la tardanza buenas noches
+01:59:23	[Tutor] Pablo David Schvager:	Replying to "Perdon por la tardan..."
+
+No hay problema
+01:59:26	Diego Gonzalez:	recien pude entrar, disculpen, buenas noches
+01:59:29	German Diaz:	nooo
+01:59:55	Felipe Calvo Beheran:	Git es cool
+02:00:02	Maria Vanesa Palacios:	ok
+02:00:46	Luciano Hamze:	okaa
+02:01:35	German Diaz:	si
+02:01:37	Maria Vanesa Palacios:	sisi
+02:01:38	Giorgio Saluzzi:	si
+02:02:39	Martin Franco:	las actualizaciones hay que ponerlas manualmente? o hay manera que se actualice solo?
+02:02:39	Francisco Fernandez Vera:	Yo tengo esta versión: git version 2.30.1.windows.1Deberia actualizarlo?
+02:02:44	Marxiolys Aguilar:	Profe tiene que ser 2.42.0?
+02:02:54	Tomas Paletta:	Esta en las diapositivas como crear una carpeta nueva?
+02:03:17	Marxiolys Aguilar:	Como la actualizo?
+02:03:48	Luciano Hamze:	osea habría que crear una de esas por cada repositorio que querramos hacer?
+02:04:15	franklin diaz:	me salió ese error
+02:04:28	Luciano Hamze:	okaa
+02:05:48	Juanjose Bascuñan:	y moverse con cd
+02:07:07	Martin Franco:	está oculta
+02:07:47	Martin Franco:	en Windows 10 opciones de carpeta/mostrar archivos ocultos
+02:08:47	Luciano Hamze:	si señor
+02:08:48	Martin Franco:	si
+02:08:50	Christian Burns:	ss
+02:08:54	Rodrigo Sanchez:	no
+02:09:00	Rodrigo Sanchez:	:(
+02:09:13	Rodrigo Sanchez:	No me deja hacer lo de git init
+02:09:29	Rodrigo Sanchez:	Tampoco me dejo hacer eso
+02:11:22	Francisco Fernandez Vera:	Ami no se me creo la carpeta .git
+02:11:52	Francisco Fernandez Vera:	Claro, si me aparece eso
+02:12:01	franklin diaz:	yo creo que no lo tengo instalado
+02:12:08	franklin diaz:	me salió un error
+02:12:09	franklin diaz:	unknown option: --VERSIONusage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]            [--config-env=<name>=<envvar>] <command> [<args>]
+02:13:20	Federico Sola:	Replying to "unknown option: --VE..."
+
+si te sale todo eso es porque lo tenes instalado, ya que reconoce los posibles comandos
+02:13:46	Federico Rosenberg:	pero si lo guardo en la carpeta .git no aparece?
+02:14:04	Federico Rosenberg:	receta1
+02:14:08	Federico Rosenberg:	el txt
+02:14:10	Federico Rosenberg:	ok
+02:14:40	[Tutor] Pablo David Schvager:	Replying to "unknown option: --VE..."
+
+git --versión
+02:15:05	Federico Sola:	git add . 😎
+02:17:54	Nico Furtado:	otro git add
+02:19:38	Giorgio Saluzzi:	i
+02:19:38	Federico Sola:	todo joya
+02:19:42	Giorgio Saluzzi:	si
+02:21:20	Francisco Fernandez Vera:	Como para que vean quien se la mandó
+02:21:25	Federico Sola:	jajajaj
+02:21:32	[Tutor] Miguel Rodenas:	Reacted to "Como para que vean q..." with 😂
+02:24:11	Joel Serrano:	son parecidos a los comandos de linux
+02:24:45	Francisco Fernandez Vera:	profe, usted trabaja para una empresa actualmente o solo para coderhouse?
+02:25:37	Alexander Salomon:	como es tu GitHub profe?
+02:25:47	Alexander Salomon:	gracias
+02:25:51	Francisco Fernandez Vera:	ufff
+02:26:13	Christian Burns:	commit
+02:29:28	Federico Sola:	sisi
+02:29:29	Jose Barreto:	sip
+02:29:31	Giorgio Saluzzi:	si
+02:29:35	Franco Lizárraga:	Se llama hash?
+02:29:45	Federico Sola:	es un md5 no?
+02:29:49	Franco Lizárraga:	Genial!
+02:29:50	Federico Rosenberg:	porque no me aparece el master?
+02:31:02	Federico Rosenberg:	me dice que no tengo any commit yet
+02:31:52	[Tutor] Miguel Rodenas:	Replying to "me dice que no tengo..."
+
+Ese mensaje aparece cuando no tenemos commits creados todavía. Puede ser que nos haya faltado usar el git commit -m "mensaje describiendo el cambio"
+02:32:15	[Tutor] Pablo David Schvager:	Replying to "me dice que no tengo..."
+
+hace : git add . y luego git commit -m "mi primer commit "
+02:32:24	Federico Sola:	sip
+02:32:27	[Tutor] Pablo David Schvager:	Replying to "me dice que no tengo..."
+
+pásame un toma de tu terminal para poder orientarme mejor ...
+02:32:41	Federico Rosenberg:	Replying to "me dice que no tengo..."
+
+es que estoy con otra compu usando el VSC
+02:32:44	Marxiolys Aguilar:	El  email es sólo para saber el autor del archivo? O cumple alguna función?
+02:33:10	Marxiolys Aguilar:	👍🏻
+02:33:20	Federico Rosenberg:	ya solucione
+02:33:25	Federico Rosenberg:	gracais
+02:33:48	[Tutor] Miguel Rodenas:	Reacted to "ya solucione" with 👏
+02:33:50	[Tutor] Miguel Rodenas:	Reacted to "gracais" with 💪
+02:33:57	[Tutor] Pablo David Schvager:	Reacted to "ya solucione" with 👍
+02:34:06	[Tutor] Pablo David Schvager:	Reacted to "gracais" with 💪
+02:36:37	Luciano Hamze:	mucho mas comodo
+02:37:08	Jose Barreto:	que sabrosura
+02:39:14	Juanjose Bascuñan:	si
+02:39:18	Giorgio Saluzzi:	si
+02:39:19	Juanjose Bascuñan:	ya conocía git
+02:39:21	Juanjose Bascuñan:	es bkn
+02:39:33	Juanjose Bascuñan:	y GitHub es como red social de devs
+02:39:46	Juanjose Bascuñan:	oka
+02:39:49	Francisco Fernandez Vera:	ok
+02:41:04	franklin diaz:	profe podrías pasar la clase del lunes porfa
+02:41:06	Federico Rosenberg:	PS C:\Users\Fede\Desktop\Prog Basica\phyton>
+02:41:15	Federico Rosenberg:	como cambio eso?
+02:43:10	Federico Rosenberg:	y en mi terminal dice powershell en lugar de bash
+02:43:30	Martin Franco:	Te encargo cuando puedas profe que nos digas del after, hay algunas preguntitas para hacer para la preentrega
+02:43:34	Felipe Calvo Beheran:	yo creo que te pasaste algunos pasos fede
+02:43:42	Felipe Calvo Beheran:	git en vsc tienes que fijarte
+02:43:57	Federico Rosenberg:	correcto
+02:44:09	Federico Rosenberg:	oka
+02:44:51	Federico Rosenberg:	graciaaaas
+02:45:06	Federico Rosenberg:	ahora si
+02:46:57	Mateo Pellegrini:	Hola profe tengo una duda con respecto a la entrega, esto lo comprimo en .zip y lo mando. o si hago un paquete distribuible solo envío el archivo .tar.gz habiendo agregado el setup.py
+02:47:23	Mateo Pellegrini:	???
+02:47:43	Martin Franco:	Profe ésta sería la última pre entrega antes del proyecto final?
+02:47:56	Christian Burns:	joya
+02:48:16	Martin Franco:	genial
+02:48:17	[Tutor] Pablo David Schvager:	Replying to "Profe ésta sería la ..."
+
+La tercera es la ultima, la de esta semana es la segunda
+02:49:02	Alexander Salomon:	consulta porque siempre en los otros cursos como el de desarrollo web js y react, ya sabíamos que era lo que teníamos que entregar al final aca pasa lo mimos o puede variar, ya que en los otros cursos siempre fue un e-comerce
+02:49:32	Boldrini Luciano:	en el main irían las funciones que se aplican en las clases ?
+02:50:14	Christian Burns:	ok
+02:50:24	Francisco Fernandez Vera:	Che profe, ami no me salen las letras de colores en el vsc cuando voy modificando el archivo
+02:50:24	Mateo Pellegrini:	a buenísimo profe, muchas gracias
+02:50:49	Federico Rosenberg:	pero en el tar.gz a mi me quedo la 2da entrega, la 1era y el setup.py
+02:50:59	[Tutor] Pablo David Schvager:	Mejor siempre que se encuentre todo esto en la segunda pre-entrega:
+02:51:01	Alexander Salomon:	okas perfecto gracias
+02:51:39	[Tutor] Pablo David Schvager:	El main.py tiene que tener la instancia y importación del paquete
+02:51:47	[Tutor] Pablo David Schvager:	instancias de la clase cliente
+02:52:14	[Tutor] Pablo David Schvager:	pero puede llamarse de otra forma el archivo donde se crean las instancias de la clase cliente
+02:52:30	Francisco Fernandez Vera:	Reacted to "Che profe, ami no me..." with 🤓
+02:52:30	Felipe Calvo Beheran:	falt atransformala
+02:52:31	Francisco Fernandez Vera:	Reacted to "Che profe, ami no me..." with 👆
+02:52:37	Martin Franco:	Claro, cuando lo ejecutas genera el archivito
+02:53:19	Felipe Calvo Beheran:	es la consola donde interactua el usuario?
+02:53:30	Federico Rosenberg:	pero consulta: el zip o tar.gz no es acaso el archivo que hay que subir?
+02:54:12	Nico Furtado:	en esa imágen
+02:54:15	Federico Rosenberg:	oka, yo ya entregue porque estoy complicado a partir de mañana
+02:54:20	Nico Furtado:	módulo 1 y módulo2, qué tendrían?
+02:55:32	[Tutor] Miguel Rodenas:	Asistencia asignada a mi grupo 😊Los ausentes hoy son: Pablo Verino,Paula León,Santiago BeSi están, escríbanme porfa 💪
+02:56:11	[Tutor] Miguel Rodenas:	Replying to "módulo 1 y módulo2, ..."
+
+en un módulo tendríamos la clase cliente y en el otro, el código de la primera entrega 💪
+02:56:23	[Tutor] Pablo David Schvager:	Replying to "pero consulta: el zi..."
+
+Es mejor si incluyen también el setup.py y el main.py pero también podemos los tutores corregir solamente el tar.gz una vez instalado el paquete nosotros podemos acceder al código del modulo pero recomiendo la estructura anterior comprimida para compartir
+02:57:09	Alejandra Martinez:	@[Tutor] Pablo David Schvager holi como esta, disculpe la molestia, le escribo porque note hoy en la tarde que no tengo la asistencia de la clase del lunes (y por ello igual aun no puedo valorar esa clase)
+02:57:22	Christian Burns:	ósea q solo comitea el q esta en add
+02:58:03	[Tutor] Pablo David Schvager:	Replying to "@[Tutor] Pablo David..."
+
+Hola @Alejandra Martinez ahora te paso la asistencia no te preocupes, debe ser el sistema automático de la asistencia el que no te detecto...
+02:58:07	Franco Lizárraga:	jajajajajja
+02:58:17	franklin diaz:	no
+02:59:33	Alejandra Martinez:	Replying to "@[Tutor] Pablo David..."
+
+@[Tutor] Pablo David Schvager graciaaaaaaas
+03:00:55	CAMILA BELÉN DÍAZ ARAYA:	profe esto va e la segunda entrega?
+03:01:18	CAMILA BELÉN DÍAZ ARAYA:	aah a genial
+03:02:14	Nico Furtado:	sin el riesgo de romperlo
+03:02:28	Martin Franco:	como un testeo local sería y después el update si anda bien
+03:02:49	Martin Franco:	si
+03:02:51	Alexander Salomon:	se entiende prerfecto
+03:03:02	[Tutor] Pablo David Schvager:	Estudiantes que el sistema de asistencia automática no encontró : Ariel KappesAxel RodriguezCristian Martin MartinezEDUARDO FELIPE FERNANDEZ TORRESEsteban MengoniFederico TeyssandierFlorencia Sanchez👁️👁️Espero chiflido si se encuentran ...
+03:05:48	[Tutor] Pablo David Schvager:	Reacted to "@[Tutor] Pablo David..." with 💪
+03:08:16	german bianchi:	gitk?
+03:08:30	german bianchi:	lo conoces?
+03:08:35	german bianchi:	es un visualizador de git
+03:11:05	Pablo Murua:	Master no va a estar
+03:13:41	Nico Furtado:	me encantaría ver esto en un diagrama
+03:13:42	Christian Burns:	si
+03:14:26	Marco Petit:	Entonces el checkout mueve lo que tenemos pendiente en una rama a una rama nueva, siempre y cuando sea una rama nueva. Si es una rama vieja no trae nada, porque es del pasado?
+03:14:42	Diego Gonzalez:	disculpe profe, me tengo que retirar, ya despues veo lo ultimo de la clase, que tengan buenas nochess
+03:14:47	Christian Burns:	ja
+03:15:13	Christian Burns:	Reacted to "disculpe profe, me t..." with 👋🏻
+03:15:27	Rodrigo Sanchez:	Profe le aviso que si en dado caso me salgo de la clase es por que se me esta llendo la luz en el lugar donde vivo ya que esta lloviendo pero a montones
+03:16:16	[Tutor] Pablo David Schvager:	Replying to "Profe le aviso que s..."
+
+No hay problema, pero recuerda avisar al tutor para que tengas la asistencia
+03:16:28	Rodrigo Sanchez:	Replying to "Profe le aviso que s..."
+
+Ok
+03:18:29	[Tutor] Miguel Rodenas:	Replying to "Profe le aviso que s..."
+
+No te preocupes Rodrigo! Ya está asignada la asistencia 😊
+03:19:26	Marco Petit:	stagin también?
+03:19:30	Rodrigo Sanchez:	Replying to "Profe le aviso que s..."
+
+Ok :)
+03:20:25	Marco Petit:	buenisimo, gracias
+03:20:38	Martin Franco:	sii, tendremos que pegar otra miradita a la clase igual jaja
+03:20:50	franklin diaz:	lo mismo digo
+03:20:51	Martin Franco:	calculo que trabajándolo será mejor con el timepo
+03:22:10	Maria Vanesa Palacios:	profe y cuando trabajamos con otras personas pero en el mismo proyecto todos tienen el master?
+03:22:28	Maria Vanesa Palacios:	o los demás hacen ramas?
+03:22:41	[Tutor] Pablo David Schvager:	Replying to "profe y cuando traba..."
+
+Lo que conviene es trabajar en ramas separadas
+03:23:08	Maria Vanesa Palacios:	Replying to "profe y cuando traba..."
+
+y como se fusionan los códigos?
+03:23:17	[Tutor] Pablo David Schvager:	Replying to "profe y cuando traba..."
+
+Ahora el profe explica
+03:23:22	Maria Vanesa Palacios:	Replying to "profe y cuando traba..."
+
+ok gracias
+03:23:24	Luciano Hamze:	se sobreescribe
+03:23:31	Marco Petit:	Replying to "profe y cuando traba..."
+
+cada quien trabaja en su rama, pero en algún momento se tienen que unir toda a la principal.. no?
+03:23:40	[Tutor] Pablo David Schvager:	Replying to "profe y cuando traba..."
+
+claro
+03:23:49	[Tutor] Pablo David Schvager:	Replying to "profe y cuando traba..."
+
+se tienen que unir en la rama principal
+03:24:05	Javier Rojas:	agrega y no pisa verdad?
+03:24:07	Alejandra Martinez:	Replying to "o los demás hacen ra..."
+
+depende... donde yo trabajo creamos ramas según cada ticket y luego solamente hacemos merge a master entonces no nos pisamos las versiones
+03:24:08	Christian Burns:	y desarrollo desaparece?
+03:24:29	Alejandra Martinez:	Replying to "o los demás hacen ra..."
+
+y si somos dos en una misma rama pues siempre pull antes de cualquier cosa xd
+03:24:34	Javier Rojas:	oka
+03:24:53	Christian Burns:	ok
+03:25:02	Maria Vanesa Palacios:	Replying to "o los demás hacen ra..."
+
+ah en vez de add . usamos pull?
+03:25:47	Maria Vanesa Palacios:	Replying to "o los demás hacen ra..."
+
+ok ok
+03:29:25	Marco Petit:	les dejo una git cheat sheet:https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F8341g68g1v7y.png
+03:29:52	[Tutor] Pablo David Schvager:	Reacted to "les dejo una git che..." with 💪
+03:30:29	[Profesor] Cristian D Biancotti:	https://learngitbranching.js.org/?locale=es_ES
+03:33:04	Alejandra Martinez:	Replying to "o los demás hacen ra..."
+
+el git fetch sirve para ver si se han creado mas ramas... luego git pull para traer todos los cambios hechos en la rama donde estas... y luego ahi si le hago que si git commit add y push
+03:34:54	Maria Vanesa Palacios:	Replying to "o los demás hacen ra..."
+
+gracias gracias! me queda mas claro
+03:38:58	Marxiolys Aguilar:	Reacted to "les dejo una git che..." with 🤝
+03:41:58	Nico Furtado:	de qué depende el tiempo de subida de la clase a la plataforma?
+03:43:05	Federico Sola:	nono
+03:43:06	Alexander Salomon:	por ahora todo perfecto
+03:43:45	Alexander Salomon:	listo, buenas noches a todos
+03:44:01	german bianchi:	cristian, para esta entrega el programa no va a tener 1 sola clase "Cliente" no? xq por lo qe vi dice que hay que modelar lo que seria un cliente en una web de compras. Osea tendría mas clases no se producto carrito etc.. o nada que ver?
+03:44:13	franklin diaz:	donde lo pasaste ?
+03:44:14	Christian Burns:	lo pasaste por el chat de la plataforma?
+03:44:25	Christian Burns:	👍🏻
+03:44:59	german bianchi:	hmm okey
+03:45:05	german bianchi:	y tiene q ser funcional?
+03:45:07	german bianchi:	jajaja nono, te entiendo
+03:45:22	german bianchi:	claro osea que el cliente se pueda no se registrar inicar sesion
+03:45:27	german bianchi:	agregar un producto
+03:45:31	german bianchi:	o es algo bien sencillo
+03:45:34	german bianchi:	ok
+03:45:57	german bianchi:	dale
+03:45:58	Mariano Rodriguez:	Buen findeee
+03:46:00	german bianchi:	gracias cristian nos vemos
+03:46:01	franklin diaz:	el init y el str ya son dos
+03:46:02	Federico Sola:	dalee, nos vemos!
+03:46:08	german bianchi:	Replying to "el init y el str ya ..."
+
+no cuentan
+03:46:09	Maria Vanesa Palacios:	nos vemos
+03:46:09	[Tutor] Pablo David Schvager:	nos vemos !!!
+03:46:12	Maria Vanesa Palacios:	el viernes
+03:46:13	Renato Soto Vargas:	Buenas noches profe
+03:46:18	Bárbara Lima:	buenas noches!
+03:46:19	Javier Rojas:	nos vemoss
+03:46:21	[Tutor] Pablo David Schvager:	Buen finde !
+03:46:25	Mateo Pellegrini:	Nos vemos!
+03:46:44	Ulises Pellegrini:	nos vemos profe
+03:46:44	franklin diaz:	nos vemos
+03:46:45	Nico Furtado:	arios
+03:46:51	CAMILA BELÉN DÍAZ ARAYA:	buenas noches!
